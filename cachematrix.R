@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## Caching the Inverse of Matrix
 
 ## makeCacheMatrix:
 # 1. store a matrix
